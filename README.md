@@ -10,16 +10,19 @@
 1. Click on the 'Code' button
 2. Choose HTTPS option
 3. Copy repository's git url
+4. Go to terminal and choose folder and git clone the repository
+5. Type cd and name of the folder
 # Making Commits and Pushes
 1. Open readme file
 2. Press right click and open with any editor
 3. Add any changes
 4. Push the changes into GitHub
 ### Example
-git init
-git add .
-git commit -m ("Update")
-git push origin
+1. git init
+2. git add .
+3. git commit -m ("Update")
+4. git push origin
+
 
 
 
