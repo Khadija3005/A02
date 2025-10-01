@@ -1,6 +1,6 @@
 # A02
-# Tutorial for GitHub
-1. Install GitHub
+# Tutorial for  Git and GitHub
+1. Install Git: https://git-scm.com/downloads
 2. Create a GitHub account
 
 
@@ -28,6 +28,31 @@
 4. git push origin
 
 
+# Tutorial for Webstorm
+1. Install Webstorm: https://www.jetbrains.com/webstorm/download/?section=windows
+
+
+# Create/Open Project
+1. Click File and New Project
+
+
+# Enable Git
+1. Click File and setting
+2. Version Control and git, test
+
+
+# Connect to GitHub
+1. VCS and Git, remotes
+2. Add your repository URL
+
+# Commit and Push
+1. VCS and commit and push
+
+
+# Pull updates
+1. VCS and Git and Pull
+
+
 # Definitions
 1. **Branch** - A parallel version of a repository used to develop features without affecting the main project. 
 2. **Clone** - A local copy of a GitHub repository created using the git clone command.
@@ -43,5 +68,9 @@
 12. **Repository** - A project folder tracked by Git, containing files and the history of changes.
 
 
-
+# References
+[Git Official Website:] (https://git-scm.com/)
+JetBrains Webstorm: https://www.jetbrains.com/webstorm/
+Medium tutorial GitHub for beginners: https://nanthony007.medium.com/github-tutorial-for-beginners-7efb608a7413
+Slides from the class
 
