@@ -69,8 +69,8 @@
 
 
 # References
-Git Official Website: https://git-scm.com/
-JetBrains Webstorm: https://www.jetbrains.com/webstorm/
-Medium tutorial GitHub for beginners: https://nanthony007.medium.com/github-tutorial-for-beginners-7efb608a7413
-Slides from the class
+1. Git Official Website: https://git-scm.com/
+2. JetBrains Webstorm: https://www.jetbrains.com/webstorm/
+3. Medium tutorial GitHub for beginners: https://nanthony007.medium.com/github-tutorial-for-beginners-7efb608a7413
+4. Slides from the class
 
