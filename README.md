@@ -1,14 +1,14 @@
 # A02
-# Tutorial for  Git and GitHub
+## Tutorial for  Git and GitHub
 1. Install Git: https://git-scm.com/downloads
 2. Create a GitHub account
 
 
-# Create a Repository
+## Create a Repository
 1. Create a new repository by clicking the + icon in the top right.
 2. Click "New Repository"
 3. Choose a name for repository and add readme file
-# Clone Your Repository
+## Clone Your Repository
 1. Click on the 'Code' button
 2. Choose HTTPS option
 3. Copy repository's git url
@@ -16,7 +16,7 @@
 5. Type cd and name of the folder
 
 
-# Making Commits and Pushes
+## Making Commits and Pushes
 1. Open readme file
 2. Press right click and open with any editor
 3. Add any changes
@@ -28,32 +28,35 @@
 4. git push origin
 
 
-# Tutorial for Webstorm
+## Tutorial for Webstorm
 1. Install Webstorm: https://www.jetbrains.com/webstorm/download/?section=windows
 
 
-# Create/Open Project
+## Create/Open Project
 1. Click File and New Project
+2. Choose name and location
 
 
-# Enable Git
+## Enable Git
 1. Click File and setting
 2. Version Control and git, test
 
 
-# Connect to GitHub
+## Connect to GitHub
 1. VCS and Git, remotes
 2. Add your repository URL
 
-# Commit and Push
-1. VCS and commit and push
+## Commit and Push
+1. VCS and commit
+2. Write descriptive commit massage
+3. Commit and push
 
 
-# Pull updates
+## Pull updates
 1. VCS and Git and Pull
 
 
-# Definitions
+## Definitions
 1. **Branch** - A parallel version of a repository used to develop features without affecting the main project. 
 2. **Clone** - A local copy of a GitHub repository created using the git clone command.
 3. **Commit** - A saved change to the repository, like snapshot of progress.
