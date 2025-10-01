@@ -24,7 +24,7 @@
 ### Example
 1. git init
 2. git add .
-3. git commit -m "Update"
+3. git commit -m "Fix: Updated Readme.md"
 4. git push origin
 
 
@@ -38,7 +38,7 @@
 
 
 ## Enable Git
-1. Click File and setting
+1. Click File, Setting
 2. Version Control and git, test
 
 
@@ -48,7 +48,7 @@
 
 ## Commit and Push
 1. VCS and commit
-2. Write descriptive commit massage
+2. Write descriptive commit message
 3. Commit and push
 
 
